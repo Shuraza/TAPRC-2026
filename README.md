@@ -4,10 +4,11 @@ Este repositório contém a implementação das Azure Functions solicitadas na a
 
 ## Equipe
 
-* Caio de Souza - [Email/GitHub]
-* Carlos Deretti - [Email/GitHub]
-* Mathias Gruber - [Email/GitHub]
-* Vitor Henrique - [Email/GitHub]
+
+* Caio de Souza - [caiodesouza.cds@gmail.com/[CaioSouza07.github.com](https://github.com/CaioSouza07)]
+* Carlos Deretti - [carlos.deretti@univille.br/[M0ntti.github.com](https://github.com/M0ntti)]
+* Mathias Gruber - [mathigmtk@gmail.com/[Mathias-GMTK.github.com](https://github.com/Mathias-GMTK)]
+* Vitor Henrique - [vitorhenriquedasilveira@gmail.com/[Cyronp.github.com](https://github.com/cyronp)]
 * Samuel de Souza - [Samueldesouza200512@gmail.com/[Shuraza.github.com](https://github.com/Shuraza)]
 
 ---
